@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cursx&show_icons=true&theme=radium)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
