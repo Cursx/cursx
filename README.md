@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cursx&show_icons=true&theme=radium)
 <!--
 **Cursx/cursx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
